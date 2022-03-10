@@ -1,1 +1,2 @@
 Adding sample text as commit 3 in Feature1 branch (considering commit1 from parent/master/production branch)
+Adding additional commit to merge into Integration, HotFix and Production/master
