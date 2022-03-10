@@ -1,0 +1,1 @@
+Adding sample text as commit 3 in Feature1 branch (considering commit1 from parent/master/production branch)
