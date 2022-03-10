@@ -1,0 +1,2 @@
+Adding line one as second commit in Feature2.txt
+Adding line two as the third commit in Feature2.txt
